@@ -38,3 +38,18 @@
   padding-right: 10px;
   font-size: 30px;
 }
+.pictures {
+  display: flex;
+  justify-content: space-around;
+  height: auto;
+}
+
+.pic1 {
+  width: 50%;
+  height: auto;
+}
+
+.pic2 {
+  width: 50%;
+  height: auto;
+}
